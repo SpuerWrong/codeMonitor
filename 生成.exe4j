@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exe4j version="9.0" transformSequenceNumber="3">
+  <directoryPresets config="C:/Users/王丽杰/Desktop/崽崽代码统计器" />
+  <application name="崽崽代码统计器" distributionSourceDir="C:/Users/王丽杰/Desktop/崽崽代码统计器" />
+  <executable name="崽崽代码统计器" wrapperType="embed" iconSet="true" iconFile="C:/Users/王丽杰/Desktop/崽崽代码统计器/code-小崽崽-1.ico" executableDir="." executableMode="gui" />
+  <java mainClass="CodeMonitor" minVersion="22.0.2" maxVersion="22.0.2">
+    <searchSequence>
+      <directory location="./custom-jre" />
+    </searchSequence>
+    <classPath>
+      <archive location="C:/Users/王丽杰/Desktop/崽崽代码统计器/code_totel2.jar" failOnError="false" />
+    </classPath>
+  </java>
+</exe4j>
