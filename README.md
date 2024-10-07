@@ -36,9 +36,17 @@ CodeMonitor is a tool designed to monitor the line count of Java project codes. 
 运行 CodeMonitor.java 主程序。
 3. **选择监控目录**：
 启动程序后，选择要监控的 Java 项目目录，程序将开始统计代码行数。
-4. **查看统计结果**：
+![image](https://github.com/user-attachments/assets/03b0e0e7-f054-427a-86be-7cf604be39c6)  
+
+5. **查看统计结果**：
 程序界面将显示累计代码行数和今日新增代码行数。
-点击“每日统计”按钮可以查看每日代码贡献情况。
+
+![image](https://github.com/user-attachments/assets/bd960828-d610-4190-8172-59de3d5b6a46)  
+  
+点击“每日统计”按钮可以查看每日代码贡献情况。  
+
+![image](https://github.com/user-attachments/assets/8030236b-3852-4fdc-bc28-78f24d7d8d02)  
+
 ## 贡献 / Contributing
 如果你有兴趣参与开发或改进本项目，欢迎提交 Pull Request 或提出 Issue。
 
